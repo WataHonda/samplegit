@@ -1,5 +1,5 @@
 my_characters = ['Tabibito', 'Paimon', 'Amber', 'Gaia', 'Risa', 'Noelle',
-                'Enhi', 'Faruzan', 'Yukiaki', 'Rinnet']
+                 'Enhi', 'Faruzan', 'Yukiaki', 'Rinnet']
 result = []
 for character in my_characters:
     result.append(character)
